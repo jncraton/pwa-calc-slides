@@ -1,3 +1,62 @@
-% Title
-% Author
-% August 5th, 2018
+% Progressive Web Applications
+% CPSC2330 Web Development
+% May 1, 2019
+
+Native vs Web
+=============
+
+Discuss the advantages and disadvantages of web and native apps in groups. Consider the needs of:
+
+1. Users
+2. Businesses
+3. Developers
+
+Native App
+==========
+
+- Performant
+- Network independent
+- Installable
+- Platform dependent
+
+Web App
+=======
+
+- Less performant
+- Online only
+
+Web App
+=======
+
+- Responsive
+- Discoverable
+- Linkable
+- Progressive
+- Safe
+
+PWA
+===
+
+- Installable
+- Re-engageable
+- Network independent
+
+How?
+====
+
+
+
+<aside class="notes">
+
+- Teaching Goal - This learning segment will encourage students to think about the strengths and weaknesses of web applications versus native applications and help students appreciate the value of progressive web applications in bridging the gap to traditional applications.
+    - Objective - Students will be able to discuss the pros and cons of web applications and native applications.
+    - Objective - Students will be able to list the weaknesses of web applications that progressive web applications seek to solve.
+        - Learning outcome - At the end of the learning experience, students will be able to discuss what sorts of apps are well suited for being progressive web applications, and which may be better off as more traditional web applications or native applications.
+- Teaching Goal - This learning experience will provide a very basic overview of how progressive web applications are built.
+    - Objective - Students will be able to explain from a high level viewpoint how progressive web applications are put together.
+        - Learning outcome - At the end of this experience, students will be able to put together the basic framework for a progressive web application (I won't be measuring this, but it could be assessed via a homework assignment or quiz).
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/Advantages
+
+</aside>
+
