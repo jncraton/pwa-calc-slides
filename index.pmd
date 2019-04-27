@@ -1,6 +1,8 @@
-% Progressive Web Applications
-% CPSC2330 Web Development
-% May 1, 2019
+---
+title: Progressive Web Applications
+parallaxBackgroundImage: media/bg.png
+parallaxBackgroundSize: 2608px 1282px
+---
 
 Native vs Web
 =============
@@ -38,13 +40,32 @@ PWA
 ===
 
 - Installable
-- Re-engageable
 - Network independent
+- Re-engageable
 
 How?
 ====
 
+[Sample App](https://github.com/jncraton/pwa-calc/tree/master/src)
 
+Installable
+===========
+
+[App Manifest](https://github.com/jncraton/pwa-calc/blob/master/src/manifest.json)
+
+Network Independent
+===================
+
+[Service Worker](https://github.com/jncraton/pwa-calc/blob/master/src/service-worker.js)
+
+Re-engageable
+=============
+
+[Web Push](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
+[Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
+
+Questions
+=========
 
 <aside class="notes">
 
