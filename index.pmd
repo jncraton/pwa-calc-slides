@@ -61,8 +61,8 @@ Network Independent
 Re-engageable
 =============
 
-[Web Push](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
-[Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
+- [Push API](https://developer.mozilla.org/en-US/docs/Web/API/Push_API)
+- [Notifications API](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API)
 
 Questions
 =========
